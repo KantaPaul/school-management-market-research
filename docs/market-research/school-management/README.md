@@ -15,6 +15,7 @@ Research date: 24 October 2026. No application code was written. No school or co
 | [customer-segments.md](customer-segments.md) | Scores for six segments and the weight sensitivity |
 | [product-positioning.md](product-positioning.md) | The selected sentence and the two positions that were rejected |
 | [mvp-roadmap.md](mvp-roadmap.md) | P0 fee-and-attendance loop. Everything else is deferred |
+| [mockup-plan.md](../../design/mockup-plan.md) | Screen map and next-cms-style file tree for a later due-list prototype. Does not approve application code |
 | [pricing-and-unit-economics.md](pricing-and-unit-economics.md) | Illustrative prices and contribution. Not a sales forecast |
 | [technical-feasibility.md](technical-feasibility.md) | Hosted modular monolith. No existing codebase was inspected |
 | [risk-register.md](risk-register.md) | Risks and the five most likely ways the business fails |
